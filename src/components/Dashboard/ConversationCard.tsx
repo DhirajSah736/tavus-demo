@@ -153,7 +153,7 @@ export function ConversationCard({
                 {isDeleting ? (
                   <>
                     <div className="animate-spin w-4 h-4 border-2 border-white border-t-transparent rounded-full" />
-                    <span>Deleting...</span>
+                    <span>Deleting....</span>
                   </>
                 ) : (
                   <>
